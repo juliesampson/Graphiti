@@ -1,0 +1,22 @@
+{
+  "A": {
+    "indegree": 0,
+    "outdegree": 0
+  },
+  "B": {
+    "indegree": 0,
+    "outdegree": 0
+  },
+  "C": {
+    "indegree": 0,
+    "outdegree": 0
+  },
+  "D": {
+    "indegree": 0,
+    "outdegree": 0
+  },
+  "E": {
+    "indegree": 0,
+    "outdegree": 0
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "e1",
+    "origin": "A",
+    "destination": "B",
+    "weight": "2"
+  },
+  {
+    "name": "e2",
+    "origin": "A",
+    "destination": "C",
+    "weight": "1"
+  },
+  {
+    "name": "e3",
+    "origin": "B",
+    "destination": "D",
+    "weight": "3"
+  },
+  {
+    "name": "e4",
+    "origin": "D",
+    "destination": "C",
+    "weight": "6"
+  },
+  {
+    "name": "e5",
+    "origin": "C",
+    "destination": "E",
+    "weight": "5"
+  },
+  {
+    "name": "e6",
+    "origin": "E",
+    "destination": "D",
+    "weight": "8"
+  },
+  {
+    "name": "e7",
+    "origin": "E",
+    "destination": "A",
+    "weight": "13"
+  }
+]
